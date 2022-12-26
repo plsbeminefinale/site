@@ -1,0 +1,15 @@
+--2022-12-26 17:08:22--  https://www.google.com/imgres?imgurl=https%3A%2F%2Fmobimg.b-cdn.net%2Fv3%2Ffetch%2F10%2F10b532bc3da4dd2e0715ea146abd32d4.jpeg
+Resolving www.google.com (www.google.com)... 172.253.122.99, 172.253.122.105, 172.253.122.103, ...
+Connecting to www.google.com (www.google.com)|172.253.122.99|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.google.com/imghp [following]
+--2022-12-26 17:08:22--  https://www.google.com/imghp
+Reusing existing connection to www.google.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘imgres?imgurl=https:%2F%2Fmobimg.b-cdn.net%2Fv3%2Ffetch%2F10%2F10b532bc3da4dd2e0715ea146abd32d4.jpeg’
+
+                           imgres?imgurl=https:%2F%2Fm     [<=>                                                                                                                        ]       0  --.-KB/s               imgres?imgurl=https:%2F%2Fmobimg.b-cdn.net%2Fv3%2Ffetc     [ <=>                                                                                                                       ]  13.53K  --.-KB/s    in 0s      
+
+2022-12-26 17:08:22 (90.2 MB/s) - ‘imgres?imgurl=https:%2F%2Fmobimg.b-cdn.net%2Fv3%2Ffetch%2F10%2F10b532bc3da4dd2e0715ea146abd32d4.jpeg’ saved [13853]
+
